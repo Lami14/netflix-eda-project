@@ -1,0 +1,4 @@
+show_id,type,title,director,cast,country,date_added,release_year,rating,duration,listed_in,description
+s1,TV Show,3%,,João Miguel,"Brazil","August 14, 2020",2020,TV-MA,4 Seasons,"International TV Shows, TV Dramas, TV Sci-Fi & Fantasy","A returning politician's daughter tries to uncover the truth behind the mysterious disappearance of the opposition leader."
+s2,Movie,7:19,Jorge Michel Grau,"Demián Bichir","Mexico","December 23, 2016",2016,TV-MA,93 min,"Dramas, International Movies","After a devastating earthquake hits Mexico City, trapped survivors must confront their darkest fears."
+s3,Movie,23:59,Gilson Martins,"Paola Oliveira","Brazil","December 25, 2016",2016,TV-MA,78 min,"Horror Movies, International Movies","When an elevator breaks down on New Year's Eve, strangers are forced to face their personal demons."
