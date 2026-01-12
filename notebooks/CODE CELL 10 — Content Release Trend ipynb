@@ -1,0 +1,5 @@
+df["release_year"].value_counts().sort_index().plot(kind="line")
+plt.title("Netflix Content Release Trend Over the Years")
+plt.xlabel("Year")
+plt.ylabel("Number of Titles")
+plt.show()

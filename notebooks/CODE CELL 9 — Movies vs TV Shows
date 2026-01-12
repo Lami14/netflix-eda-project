@@ -1,0 +1,5 @@
+df["type"].value_counts().plot(kind="bar")
+plt.title("Movies vs TV Shows on Netflix")
+plt.xlabel("Content Type")
+plt.ylabel("Count")0
+plt.show()

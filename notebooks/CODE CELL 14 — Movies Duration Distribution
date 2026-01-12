@@ -1,0 +1,8 @@
+movies = df[df["type"] == "Movie"]
+movies["duration"] = movies["duration"].str.replace(" min", "").astype(float)
+
+movies["duration"].plot(kind="hist", bins=30)
+plt.title("Movie Duration Distribution")
+plt.xlabel("Minutes")
+plt.ylabel("Frequency")
+plt.show()

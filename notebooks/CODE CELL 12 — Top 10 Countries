@@ -1,0 +1,6 @@
+df["country"] \
+    .dropna() \
+    .str.split(", ") \
+    .explode() \
+    .value_counts() \
+    .head(10)
